@@ -17,19 +17,10 @@ Streak Stats (DenverCoder1)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Frank-Muhiu-Wanja&theme=radical)
 
-Stats Card (anuraghazra)
-
-![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frank-Muhiu-Wanja&show_icons=true&theme=radical&hide_rank=true)
-
 
 Top Language Card (anuraghazra)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frank-Muhiu-Wanja&layout=compact&theme=radical)
-
-
-Github Trophies(ryo-ma)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Frank-Muhiu-Wanja&theme=radical)
 
 
 Pinned Repo Cards(anuraghazra)
