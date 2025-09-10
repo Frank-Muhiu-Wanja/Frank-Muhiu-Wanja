@@ -9,3 +9,8 @@ Technology gives me the freedom to build, experiment, and bring imagination to l
 
 Here, you’ll find some of the projects I’ve been working on. Each one represents a step in my journey,  
 and I’m excited to keep building more along the way.  
+
+![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frank-Muhiu-Wanja&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frank-Muhiu-Wanja&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Frank-Muhiu-Wanja&theme=radical)
+
