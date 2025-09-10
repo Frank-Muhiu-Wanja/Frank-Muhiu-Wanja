@@ -1,5 +1,5 @@
 ### Hi, Frank here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=ff79c6&width=500&lines=Beginner+Developer;Excited+to+Build+Projects;Open+to+Collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=ff79c6&width=500&lines=Exploring Web Development;Excited+to+Build+Projects;Open+to+Collaboration)](https://git.io/typing-svg)
 
 
 Welcome to my GitHub profile!  
