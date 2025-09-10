@@ -1,6 +1,5 @@
 ### Hi, Frank here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=ff79c6&width=500&lines=Exploring Web Development;Excited+to+Build+Projects;Open+to+Collaboration)](https://git.io/typing-svg)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=ff79c6&width=500&lines=Exploring+Web+Development;Excited+to+Build+Projects;Open+to+Collaboration)
 
 Welcome to my GitHub profile!  
 I’m someone who enjoys turning ideas into real projects through code.  
@@ -37,13 +36,3 @@ Pinned Repo Cards(anuraghazra)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frank-Muhiu-Wanja&repo=anime-pic-generator&theme=radical)
 
-
-to get the above stats:
-
-  GitHub itself does not provide those stats cards or streak images.
-  
-  Developers in the community (like Anurag Hazra and DenverCoder1) built these tools as open-source projects.
-  
-  They use the GitHub API (which is official) to fetch your activity and then render it into nice SVG images.
-  
-  Because GitHub READMEs allow embedding images, you can just drop the generated links in your README and it works.
