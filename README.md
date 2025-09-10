@@ -18,7 +18,7 @@ Streak Stats (DenverCoder1)
 
 Stats Card (anuraghazra)
 
-![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frank-Muhiu-Wanja&show_icons=true&theme=radical)
+![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frank-Muhiu-Wanja&show_icons=true&theme=radical&hide_rank=true)
 
 
 Top Language Card (anuraghazra)
@@ -33,7 +33,8 @@ Github Trophies(ryo-ma)
 
 Pinned Repo Cards(anuraghazra)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frank-Muhiu-Wanja&repo=REPO-NAME&theme=radical)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frank-Muhiu-Wanja&repo=anime-pic-generator&theme=radical)
+
 
 to get the above stats:
 
