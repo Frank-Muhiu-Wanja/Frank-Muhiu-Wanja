@@ -1,10 +1,7 @@
 ### Hi, Frank here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-![Designer](https://img.shields.io/badge/Designer-Developer-blue?style=for-the-badge&logo=visual-studio-code)
-![Health Info Specialist](https://img.shields.io/badge/Health_Information_Specialist_by_Profession-green?style=for-the-badge)
-
-![Designer](https://img.shields.io/badge/Designer-Developer-blue?style=for-the-badge&logo=visual-studio-code)
-![Health Information Specialist](https://img.shields.io/badge/Health_Information_Specialist-Professional-green?style=for-the-badge)
+![Designer | Developer](https://img.shields.io/badge/Designer_&_Developer-💻-1E90FF?style=for-the-badge&logo=visual-studio-code)
+![Health Information Specialist by Profession](https://img.shields.io/badge/Health_Information_Specialist_by_Profession-💼-228B22?style=for-the-badge)
 
 
 
