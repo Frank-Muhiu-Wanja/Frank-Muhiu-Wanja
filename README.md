@@ -1,7 +1,7 @@
 ### Hi, Frank here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ![Designer](https://img.shields.io/badge/Designer-Developer-blue?style=for-the-badge&logo=visual-studio-code)
-![Health Info Specialist](https://img.shields.io/badge/Health_Information_SpecialistProfessional-green?style=for-the-badge)
+![Health Info Specialist](https://img.shields.io/badge/Health_Information_Specialist_by_Profession-green?style=for-the-badge)
 
 
 
