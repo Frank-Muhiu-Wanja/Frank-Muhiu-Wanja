@@ -1,7 +1,9 @@
 ### Hi, Frank here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ![Designer](https://img.shields.io/badge/Designer-Developer-blue?style=for-the-badge&logo=visual-studio-code)
-![Health Info Specialist](https://img.shields.io/badge/Health_Info_Specialist-Professional-green?style=for-the-badge)
+![Health Info Specialist](https://img.shields.io/badge/Health_Information_Specialist-Professional-green?style=for-the-badge)
+
+
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=ff79c6&width=500&lines=Exploring+Web+Development;Excited+to+Build+Projects;Open+to+Collaboration)
