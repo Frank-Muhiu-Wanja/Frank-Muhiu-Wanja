@@ -18,7 +18,7 @@ I enjoy turning ideas into projects through code. Technology gives me the freedo
 
 **Pinned Project**
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frank-Muhiu-Wanja&repo=health-records-frontend-system&theme=radical)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frank-Muhiu-Wanja&repo=health-record-frontend-system&theme=radical)
 
 **Streak Stats**
 
