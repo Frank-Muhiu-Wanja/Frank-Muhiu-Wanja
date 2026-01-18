@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 
 💻 Passionate about creating and problem-solving.  
 ✨ curiosity, and growth.
-
+🚀Independent Learner
 ---
 
 **Pinned Project**
