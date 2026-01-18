@@ -19,15 +19,15 @@ I enjoy turning ideas into projects through code. Technology gives me the freedo
 **Pinned Project**
 [![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Frank-Muhiu-Wanja&repo=health-record-frontend-system&theme=radical)](https://github.com/Frank-Muhiu-Wanja/health-record-frontend-system)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frank-Muhiu-Wanja&repo=health-record-frontend-system&theme=radical)
+`![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frank-Muhiu-Wanja&repo=health-record-frontend-system&theme=radical)`
 
 **Streak Stats**
 ![GitHub Streak](https://streak-stats.demolab.com?user=Frank-Muhiu-Wanja&theme=radical&cache=1)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Frank-Muhiu-Wanja&theme=radical)
+`![GitHub Streak](https://streak-stats.demolab.com?user=Frank-Muhiu-Wanja&theme=radical)`
 
 **Top Languages**
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Frank-Muhiu-Wanja&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frank-Muhiu-Wanja&layout=compact&theme=radical)
+`![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frank-Muhiu-Wanja&layout=compact&theme=radical)`
 
