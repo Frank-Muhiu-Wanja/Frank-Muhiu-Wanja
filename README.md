@@ -2,7 +2,7 @@
 
 ![Designer | Developer](https://img.shields.io/badge/Designer_&_Developer-💻-1E90FF?style=for-the-badge&logo=visual-studio-code)
 ![Health Information Specialist by Profession](https://img.shields.io/badge/Health_Information_Specialist_by_Profession-💼-228B22?style=for-the-badge)
-![Data Specialist]
+![Data Specialist](https://img.shields.io/badge/Data_Specialist-📊-orange?style=for-the-badge)
 
 ---
 
