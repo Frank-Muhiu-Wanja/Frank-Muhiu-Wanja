@@ -10,8 +10,11 @@
 
 
 Welcome to my GitHub profile!  
-I enjoy turning ideas into projects through code. Technology gives me the freedom to build, experiment, and bring imagination to life.
-
+const Frank = {
+  focus: ["Full Stack Development", "Data Engineering"],
+  tools: ["Python", "SQL", "React", "PowerBI"],
+  domain: "Health Information Technology"
+};
 💻 Passionate about creating and problem-solving.  
 ✨ curiosity, and growth.
 
