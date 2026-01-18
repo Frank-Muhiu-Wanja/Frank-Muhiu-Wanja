@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 I enjoy turning ideas into projects through code. Technology gives me the freedom to build, experiment, and bring imagination to life.
 
 💻 Passionate about creating and problem-solving.  
-✨ For me, coding is creativity, curiosity, and growth.
+✨ curiosity, and growth.
 
 ---
 
