@@ -20,7 +20,9 @@ Welcome to my GitHub profile!
 **Streak Stats**
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Frank-Muhiu-Wanja&theme=radical&cache=1)
+---
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,bootstrap,nodejs,express,mysql,mongodb,nextjs)](https://skillicons.dev)
 
 **Top Languages**
 
