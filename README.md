@@ -16,10 +16,6 @@ Welcome to my GitHub profile!
 🚀Independent Learner
 ---
 
-**Pinned Project**
-
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Frank-Muhiu-Wanja&repo=health-record-frontend-system&theme=radical)](https://github.com/Frank-Muhiu-Wanja/health-record-frontend-system)
-
 
 **Streak Stats**
 
